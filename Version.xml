@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Version xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-    <Link>https://github.com/Atom-Tech/SGEA/releases/download/v1.0.1/SGEA.v1.0.1.rar</Link>
-    <Versao>1.0.1</Versao>
+    <Link>https://github.com/Atom-Tech/SGEA/releases/download/v1.0.2/SGEA.v1.0.2.rar</Link>
+    <Versao>1.0.2</Versao>
     <Historico>Criado sistema de auto-atualização</Historico>
 </Version>
